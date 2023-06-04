@@ -32,7 +32,7 @@ function Google() {
         Store.addNotification({
             title: "Success",
             message: "Logged out successfully",
-            type: "warning",
+            type: "success",
             insert: "top",
             container: "bottom-right",
             animationIn: ["animate__animated", "animate__fadeIn"],
